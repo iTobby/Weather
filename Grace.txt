@@ -1,5 +1,6 @@
-I am learning git- 
+Grace learning git 101
 
+===============================================
 I created and checkout out a branch on bash
 
 **Git checkout -b Gracetest
@@ -7,4 +8,5 @@ I created and checkout out a branch on bash
 I created this file using touch command 
 
 **Touch Grace.txt.
+===============================================
 
