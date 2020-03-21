@@ -1,0 +1,10 @@
+I am learning git- 
+
+I created and checkout out a branch on bash
+
+**Git checkout -b Gracetest
+
+I created this file using touch command 
+
+**Touch Grace.txt.
+
