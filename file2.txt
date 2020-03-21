@@ -1,0 +1,16 @@
+Now I learnt how to create a second file 
+
+What I have done so far
+================================================================
+** touch file2 (made a mistake realized I wanted it to be txt)
+
+** rm file2
+
+Then
+
+** touch file2.txt
+
+=================================================================
+
+
+
